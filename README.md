@@ -1,0 +1,1 @@
+Este programa simula una pequeña base de datos en memoria, permitiendo al usuario realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre un arreglo de tipo String. Todo se maneja desde la consola, con interacción directa mediante un menú textual.
